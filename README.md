@@ -16,6 +16,7 @@
 ## Project for learning
 
 - Sales Website TTB Store (MERN Stack): https://github.com/TuanNguyen2504/ttb-store-project
+- Learn Algorithm with Dyno website (ExpressJS, Algorithm with JS): https://github.com/TuanNguyen2504/algorithms
 - Real estate website (MERN Stack): https://github.com/TuanNguyen2504/Website-BDS
 - Task Management (ReactJS): https://github.com/TuanNguyen2504/task-management-reactjs
 - Todo List (ReactJs): https://github.com/TuanNguyen2504/todo-list-reactJS
@@ -41,4 +42,4 @@
 
 Credits: [Tuan Nguyen](https://github.com/TuanNguyen2504/)
 
-Last Edited on: 01/02/2021
+Last Edited on: 03/05/2021
