@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student at the HCMUS
+## I'm a Computer Science and Engineering Student (Information System) at the HCMUS
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, MERN Stack etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😍
@@ -17,6 +17,7 @@
 
 - Sales Website TTB Store (MERN Stack): https://github.com/TuanNguyen2504/ttb-store-project
 - Algorithm Visualize Website (ExpressJS, Algorithm with JS): https://github.com/TuanNguyen2504/algorithms
+- JavaScript Tips & Tricks: https://github.com/TuanNguyen2504/javascript-tips
 - Real estate website (MERN Stack): https://github.com/TuanNguyen2504/Website-BDS
 - Natuspa Web (Html, Css, JQuery): https://github.com/TuanNguyen2504/natuspa-frontend-web
 
@@ -40,4 +41,4 @@
 
 Credits: [Tuan Nguyen](https://github.com/TuanNguyen2504/)
 
-Last Edited on: 10/05/2021
+Last Edited on: 05/06/2021
