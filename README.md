@@ -25,7 +25,7 @@
 
 <div align="center">
 </br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TuanNguyen2504&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Tuấn Nguyễn's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TuanNguyen2504&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=D93A7C&icon_color=F7D747&text_color=A9FEF7&bg_color=0,000000,141321" alt="Tuấn Nguyễn's Github Stats">
 </br>
 </br>
 
@@ -41,4 +41,4 @@
 
 Credits: [Tuan Nguyen](https://github.com/TuanNguyen2504/)
 
-Last Edited on: 05/06/2021
+Last Edited on: 07/06/2021
