@@ -30,11 +30,17 @@
 </br>
 </br>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuannguyen2504&theme=tokyonight" alt="Tuấn Nguyễn's Github Stats">
+
+</br>
+</br>
+
 <i>Follow me around the website:</i><br>
 
-<a href="https://www.linkedin.com/in/nguyenleanhtuan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/__tuan.ng_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/nlatuan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/_dyno.nguyen__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://facebook.com/TuanNguyen250400/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://dynonguyen.com/" target="_blank"><img src="https://img.shields.io/static/v1?label=My Blog&message=dynonguyen.com&color=f27232" alt="My Blog"></a>
 
 </div>
 
@@ -42,4 +48,4 @@
 
 Credits: [Tuan Nguyen](https://github.com/TuanNguyen2504/)
 
-Last Edited on: 14/07/2021
+Last Edited on: 02/09/2021
