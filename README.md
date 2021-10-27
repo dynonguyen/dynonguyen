@@ -9,7 +9,7 @@
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, MERN Stack etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😍
 - 🎯 Future Goals: Learn more technologies - Learning to become a full-stack developer.
-- ⚡ Fun fact: Open and friendly, I love to play guitar & code.
+- ⚡ Fun facts: Open and friendly. I love to play the guitar & code.
 
 ---
 
