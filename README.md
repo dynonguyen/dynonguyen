@@ -6,7 +6,7 @@
 
 ## I'm a Computer Science and Engineering Student (Information System) at the HCMUS
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React, MERN Stack etc.
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, React, MERN Stack, MVC Project etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😍
 - 🎯 Future Goals: Learn more technologies - Learning to become a full-stack developer.
 - ⚡ Fun facts: Open and friendly. I love to play the guitar & code.
@@ -30,7 +30,7 @@
 </br>
 </br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuannguyen2504&theme=tokyonight" alt="Tuấn Nguyễn's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuannguyen2504&theme=tokyonight&langs_count=10&layout=compact" alt="Tuấn Nguyễn's Github Stats">
 
 </br>
 </br>
@@ -48,4 +48,4 @@
 
 Credits: [Tuan Nguyen](https://github.com/TuanNguyen2504/)
 
-Last Edited on: 02/09/2021
+Last Edited on: 06/01/2022
