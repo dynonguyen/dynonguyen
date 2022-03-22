@@ -18,6 +18,7 @@
 - Dynonary - Website for Study English (MERN stack): https://github.com/TuanNguyen2504/dynonary-english
 - Covid-19 Management (ExpressJS MVC, Postgres, Sequelize, Pug): https://github.com/TuanNguyen2504/covid-project
 - Sales Website TTB Store (MERN Stack): https://github.com/TuanNguyen2504/ttb-store-project
+- Dyno Pomodoro Timer (TypeScript, ReactJS, Firebase): https://github.com/TuanNguyen2504/pomodoro-timer
 - Algorithm Visualize Website (ExpressJS, Algorithm with JS): https://github.com/TuanNguyen2504/algorithms
 - JavaScript Tips & Tricks: https://github.com/TuanNguyen2504/javascript-tips
 - VSCode-tis (Tối ưu hoá công việc trên VSCode): https://github.com/TuanNguyen2504/vscode-tips
