@@ -32,7 +32,7 @@
 </br>
 </br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuannguyen2504&theme=tokyonight&langs_count=10&layout=compact&hide=tsql,html" alt="Tuấn Nguyễn's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuannguyen2504&theme=tokyonight&langs_count=6&layout=compact&hide=tsql,html,pug,css" alt="Tuấn Nguyễn's Github Stats">
 
 </br>
 </br>
@@ -50,4 +50,4 @@
 
 Credits: [Tuan Nguyen](https://github.com/TuanNguyen2504/)
 
-Last Edited on: 23/01/2022
+Last Edited on: 01/06/2022
