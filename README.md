@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student (Information System) at the HCMUS
+## I'm a Software engineer
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, MERN Stack, MVC Project etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😍
