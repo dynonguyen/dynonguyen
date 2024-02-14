@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" />
 
-## I'm a Software engineer
+## I'm a Software Engineer
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, MERN Stack, MVC Project etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😍
@@ -52,4 +52,4 @@
 
 Credits: [Tuan Nguyen](https://github.com/TuanNguyen2504/)
 
-Last Edited on: 29/06/2022
+Last Edited on: 14/02/2024
