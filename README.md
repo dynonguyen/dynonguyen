@@ -15,6 +15,7 @@
 
 ## Project for learning
 
+- My VSCode & Chrome Extensions - https://github.com/TuanNguyen2504/extensions
 - Pollme - Website for creating online surveys: https://github.com/TuanNguyen2504/pollme
 - MetaMarket - Distributed Application - Microservices System: https://github.com/TuanNguyen2504/metamarket
 - Dynonary - Website for Study English (MERN stack): https://github.com/TuanNguyen2504/dynonary-english
