@@ -10,7 +10,7 @@
 - 📚 I'm a lifelong learner.
 - 📫 Contact me: [tuannguyentn2504@gmail.com](mailto:tuannguyentn2504@gmail.com).
 
-## 🚀 Languages and Tools:
+## 🚀 Languages & Tools
 
 <!-- https://shields.io/badges -->
 <!-- https://simpleicons.org/ -->
