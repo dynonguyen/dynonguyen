@@ -1,56 +1,81 @@
-<div align="center">
-<h1> 𝐇i 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h1>
-</div>
+# 👋 Hi there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 />, I'm [Dyno](https://github.com/dynognuyen)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" />
+## 👨🏻‍💻 About me
 
-## I'm a Software Engineer
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" />
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React, MERN Stack, MVC Project etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😍
-- 🎯 Future Goals: Learn more technologies - Learning to become a full-stack developer.
-- ⚡ Fun facts: Open and friendly. I love to play the guitar & code.
+- 👨‍💻 I'm a Software Engineer. I’m currently working with JS, TS, React, React Native, Vue, NextJS, NestJS, Go, etc.
+- 🥹 Fun fact: Open-minded and friendly, enjoys sharing knowledge with others. I love play guitar and coding.
+- ☕ I need more coffee.
+- 📚 I'm a lifelong learner.
+- 📫 Contact me: [tuannguyentn2504@gmail.com](mailto:tuannguyentn2504@gmail.com).
+
+## 🚀 Languages and Tools:
+
+<!-- https://shields.io/badges -->
+<!-- https://simpleicons.org/ -->
+
+#### Programming languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-171c28?logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-171c28?logo=typescript)&nbsp;
+![Go](https://img.shields.io/badge/Go-171c28?logo=go)
+
+#### Front-end tools
+
+![React](https://img.shields.io/badge/React-171c28?logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-171c28?logo=react)&nbsp;
+![Vue](https://img.shields.io/badge/Vue-171c28?logo=vue.js)&nbsp;
+![Sass](https://img.shields.io/badge/Sass-171c28?logo=sass)&nbsp;
+![MUI](https://img.shields.io/badge/MUI-171c28?logo=mui)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-171c28?logo=tailwindcss)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-171c28?logo=redux&logoColor=764abc)&nbsp;
+![React Query](https://img.shields.io/badge/TanStack_Query-171c28?logo=reactquery)&nbsp;
+![RHF](https://img.shields.io/badge/React_Hook_Form-171c28?logo=reacthookform)
+
+#### Back-end tools
+
+![NodeJS](https://img.shields.io/badge/NodeJS-171c28?logo=node.js)&nbsp;
+![ExpressJS](https://img.shields.io/badge/ExpressJS-171c28?logo=express&logoColor=f7df1e)&nbsp;
+![NextJS](https://img.shields.io/badge/NextJS-171c28?logo=next.js)&nbsp;
+![NestJS](https://img.shields.io/badge/NestJS-171c28?logo=nestjs&logoColor=e0234e)&nbsp;
+![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-171c28?logo=graphql&logoColor=e10098)&nbsp;
+![Socket.io](https://img.shields.io/badge/Socket.io-171c28?logo=socket.io)&nbsp;
+![Sequelize](https://img.shields.io/badge/Sequelize-171c28?logo=sequelize)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-171c28?logo=mongodb)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-171c28?logo=docker)
+
+#### Bundler & Compiler
+
+![Webpack](https://img.shields.io/badge/Webpack-171c28?logo=webpack)&nbsp;
+![Rollup](https://img.shields.io/badge/Rollup-171c28?logo=rollup.js)&nbsp;
+![Vite](https://img.shields.io/badge/Vite-171c28?logo=vite)
+
+#### Things I use to get stuff done
+
+![Fedora](https://img.shields.io/badge/Fedora-171c28?logo=fedora)&nbsp;
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-171c28?logo=archlinux)&nbsp;
+![MacOS](https://img.shields.io/badge/MacOS-171c28?logo=apple)&nbsp;
+![VSCode](https://img.shields.io/badge/VSCode-171c28?logo=visualstudiocode&logoColor=007acc)&nbsp;
+![Vim](https://img.shields.io/badge/Vim_&_Neovim-171c28?logo=neovim)&nbsp;
+![Zsh](https://img.shields.io/badge/Zsh-171c28?logo=zsh)&nbsp;
+![Warp](https://img.shields.io/badge/Warp-171c28?logo=warp)&nbsp;
+![Raycast](https://img.shields.io/badge/Raycast-171c28?logo=raycast)&nbsp;
+![Jira](https://img.shields.io/badge/Jira-171c28?logo=jira&logoColor=0052cc)&nbsp;
+![Chrome](https://img.shields.io/badge/Google_Chrome-171c28?logo=googlechrome)&nbsp;
+![Git](https://img.shields.io/badge/Git-171c28?logo=git)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-171c28?logo=notion)
+
+## ✨ GitHub Stats
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=dynonguyen&theme=radical&include_all_commits=true&count_private=true&show_icons=true&bg_color=141321&hide_border=true&hide_title=true" />
+
+<img width="50%" src="https://streak-stats.demolab.com?user=dynonguyen&theme=radical&hide_border=true" />
+
+![Dyno's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dynonguyen&custom_title=Dyno%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B9346D&line=B9346D&point=B9346D&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
+
+</br>
 
 ---
 
-## Project for learning
-
-- My VSCode & Chrome Extensions - https://github.com/TuanNguyen2504/extensions
-- Pollme - Website for creating online surveys: https://github.com/TuanNguyen2504/pollme
-- MetaMarket - Distributed Application - Microservices System: https://github.com/TuanNguyen2504/metamarket
-- Dynonary - Website for Study English (MERN stack): https://github.com/TuanNguyen2504/dynonary-english
-- Covid-19 Management (ExpressJS MVC, Postgres, Sequelize, Pug): https://github.com/TuanNguyen2504/covid-project
-- Sales Website TTB Store (MERN Stack): https://github.com/TuanNguyen2504/ttb-store-project
-- Dyno Pomodoro Timer (TypeScript, ReactJS, Firebase): https://github.com/TuanNguyen2504/pomodoro-timer
-- Algorithm Visualize Website (ExpressJS, Algorithm with JS): https://github.com/TuanNguyen2504/algorithms
-- JavaScript Tips & Tricks: https://github.com/TuanNguyen2504/javascript-tips
-- VSCode-tis (Tối ưu hoá công việc trên VSCode): https://github.com/TuanNguyen2504/vscode-tips
-- Natuspa Web (Html, Css, JQuery): https://github.com/TuanNguyen2504/natuspa-frontend-web
-
----
-
-<div align="center">
-</br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TuanNguyen2504&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=D93A7C&icon_color=F7D747&text_color=A9FEF7&bg_color=0,000000,141321" alt="Tuấn Nguyễn's Github Stats">
-</br>
-</br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuannguyen2504&theme=tokyonight&langs_count=6&layout=compact&hide=tsql,html,pug,css" alt="Tuấn Nguyễn's Github Stats">
-
-</br>
-</br>
-
-<i>Follow me around the website:</i><br>
-
-<a href="https://www.linkedin.com/in/nlatuan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/_dyno.nguyen__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://facebook.com/TuanNguyen250400/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://dynonguyen.com/" target="_blank"><img src="https://img.shields.io/static/v1?label=My Blog&message=dynonguyen.com&color=f27232" alt="My Blog"></a>
-
-</div>
-
----
-
-Credits: [Tuan Nguyen](https://github.com/TuanNguyen2504/)
-
-Last Edited on: 14/02/2024
+**Last edited on:** 09/06/2024
