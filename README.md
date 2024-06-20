@@ -66,12 +66,6 @@
 ![Git](https://img.shields.io/badge/Git-171c28?logo=git)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-171c28?logo=notion)
 
-## ☕ Buy me a coffee
-
-<a href="https://buymeacoffee.com/dynonguyen" title="Buy me a coffee">
-  <img width="200px" src="https://www.dropbox.com/scl/fi/999sqcf7k31ms9dw13dhs/bmc-button-yellow.svg?rlkey=3q0iv5gvrpj4gs7g6hz8z9iyt&st=wrfsuc41&raw=true" />
-</a>
-
 ## ✨ GitHub Stats
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=dynonguyen&theme=radical&include_all_commits=true&count_private=true&show_icons=true&bg_color=141321&hide_border=true&hide_title=true" />
@@ -79,3 +73,9 @@
 <img width="50%" src="https://streak-stats.demolab.com?user=dynonguyen&theme=radical&hide_border=true" />
 
 ![Dyno's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dynonguyen&custom_title=Dyno%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B9346D&line=B9346D&point=B9346D&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
+
+---
+
+<a href="https://www.buymeacoffee.com/dynonguyen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+Last edited: 20/06/2024
