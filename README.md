@@ -10,6 +10,11 @@
 - 📚 I'm a lifelong learner.
 - 📫 Contact me: [tuannguyentn2504@gmail.com](mailto:tuannguyentn2504@gmail.com).
 
+<a href="https://buymeacoffee.com/dynonguyen" title="Buy me a coffee">
+  <img width="200px" src="https://www.dropbox.com/scl/fi/999sqcf7k31ms9dw13dhs/bmc-button-yellow.svg?rlkey=3q0iv5gvrpj4gs7g6hz8z9iyt&st=wrfsuc41&raw=true" />
+</a>
+<br />
+
 ## 🚀 Languages & Tools
 
 <!-- https://shields.io/badges -->
