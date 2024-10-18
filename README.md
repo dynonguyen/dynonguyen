@@ -42,7 +42,7 @@
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-171c28?logo=graphql&logoColor=e10098)&nbsp;
 ![Socket.io](https://img.shields.io/badge/Socket.io-171c28?logo=socket.io)&nbsp;
 ![Sequelize](https://img.shields.io/badge/Sequelize-171c28?logo=sequelize)&nbsp;
-![Echo](https://img.shields.io/badge/Echo-171c28?logo=echo&logoColor=f7df1e)&nbsp;
+![Echo](https://img.shields.io/badge/Go_Echo-171c28?logo=go&logoColor=f7df1e)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-171c28?logo=mongodb)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-171c28?logo=docker)
 
@@ -79,6 +79,8 @@
 
 ## ☕ Buy me a coffee
 
-<a href="https://buymeacoffee.com/dynonguyen" title="Buy me a coffee">
-  <img width="200px" src="https://www.dropbox.com/scl/fi/912tzumyudgrjlrabzsdl/buymecoffee.png?rlkey=f8diesuneygh4yn4uk9fqxn64&st=3tu8r3sw&dl=0&raw=true" />
-</a>
+<a href="https://www.buymeacoffee.com/dynonguyen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+---
+
+Last edited: 18/10/2024
