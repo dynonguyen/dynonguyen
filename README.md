@@ -26,6 +26,7 @@
 ![React](https://img.shields.io/badge/React-171c28?logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-171c28?logo=react)&nbsp;
 ![Vue](https://img.shields.io/badge/Vue-171c28?logo=vue.js)&nbsp;
+![NextJS](https://img.shields.io/badge/NextJS-171c28?logo=next.js)&nbsp;
 ![Sass](https://img.shields.io/badge/Sass-171c28?logo=sass)&nbsp;
 ![MUI](https://img.shields.io/badge/MUI-171c28?logo=mui)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-171c28?logo=tailwindcss)&nbsp;
@@ -37,19 +38,21 @@
 
 ![NodeJS](https://img.shields.io/badge/NodeJS-171c28?logo=node.js)&nbsp;
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-171c28?logo=express&logoColor=f7df1e)&nbsp;
-![NextJS](https://img.shields.io/badge/NextJS-171c28?logo=next.js)&nbsp;
 ![NestJS](https://img.shields.io/badge/NestJS-171c28?logo=nestjs&logoColor=e0234e)&nbsp;
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-171c28?logo=graphql&logoColor=e10098)&nbsp;
 ![Socket.io](https://img.shields.io/badge/Socket.io-171c28?logo=socket.io)&nbsp;
 ![Sequelize](https://img.shields.io/badge/Sequelize-171c28?logo=sequelize)&nbsp;
+![Echo](https://img.shields.io/badge/Echo-171c28?logo=echo&logoColor=f7df1e)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-171c28?logo=mongodb)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-171c28?logo=docker)
 
-#### Bundler & Compiler
+#### Bundler, Compiler & Others tools
 
 ![Webpack](https://img.shields.io/badge/Webpack-171c28?logo=webpack)&nbsp;
 ![Rollup](https://img.shields.io/badge/Rollup-171c28?logo=rollup.js)&nbsp;
 ![Vite](https://img.shields.io/badge/Vite-171c28?logo=vite)
+![Nx](https://img.shields.io/badge/Nx_Monorepo-171c28?logo=nx)
+![Bun](https://img.shields.io/badge/Bun-171c28?logo=bun)
 
 #### Things I use to get stuff done
 
@@ -66,12 +69,6 @@
 ![Git](https://img.shields.io/badge/Git-171c28?logo=git)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-171c28?logo=notion)
 
-## ☕ Buy me a coffee
-
-<a href="https://buymeacoffee.com/dynonguyen" title="Buy me a coffee">
-  <img width="200px" src="https://www.dropbox.com/scl/fi/999sqcf7k31ms9dw13dhs/bmc-button-yellow.svg?rlkey=3q0iv5gvrpj4gs7g6hz8z9iyt&st=wrfsuc41&raw=true" />
-</a>
-
 ## ✨ GitHub Stats
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=dynonguyen&theme=radical&include_all_commits=true&count_private=true&show_icons=true&bg_color=141321&hide_border=true&hide_title=true" />
@@ -79,3 +76,9 @@
 <img width="50%" src="https://streak-stats.demolab.com?user=dynonguyen&theme=radical&hide_border=true" />
 
 ![Dyno's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dynonguyen&custom_title=Dyno%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B9346D&line=B9346D&point=B9346D&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
+
+## ☕ Buy me a coffee
+
+<a href="https://buymeacoffee.com/dynonguyen" title="Buy me a coffee">
+  <img width="200px" src="https://www.dropbox.com/scl/fi/912tzumyudgrjlrabzsdl/buymecoffee.png?rlkey=f8diesuneygh4yn4uk9fqxn64&st=3tu8r3sw&dl=0&raw=true" />
+</a>
