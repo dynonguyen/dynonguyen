@@ -25,20 +25,21 @@
 
 ![React](https://img.shields.io/badge/React-171c28?logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-171c28?logo=react)&nbsp;
-![Vue](https://img.shields.io/badge/Vue-171c28?logo=vue.js)&nbsp;
 ![NextJS](https://img.shields.io/badge/NextJS-171c28?logo=next.js)&nbsp;
-![Sass](https://img.shields.io/badge/Sass-171c28?logo=sass)&nbsp;
-![MUI](https://img.shields.io/badge/MUI-171c28?logo=mui)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-171c28?logo=tailwindcss)&nbsp;
+![Vue](https://img.shields.io/badge/Vue-171c28?logo=vue.js)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-171c28?logo=redux&logoColor=764abc)&nbsp;
 ![React Query](https://img.shields.io/badge/TanStack_Query-171c28?logo=reactquery)&nbsp;
 ![RHF](https://img.shields.io/badge/React_Hook_Form-171c28?logo=reacthookform)
+![Sass](https://img.shields.io/badge/Sass-171c28?logo=sass)&nbsp;
+![MUI](https://img.shields.io/badge/MUI-171c28?logo=mui)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-171c28?logo=tailwindcss)&nbsp;
+![CSS-in-JS](https://img.shields.io/badge/CSS_In_JS-171c28?logo=styledcomponents)
 
 #### Back-end tools
 
 ![NodeJS](https://img.shields.io/badge/NodeJS-171c28?logo=node.js)&nbsp;
-![ExpressJS](https://img.shields.io/badge/ExpressJS-171c28?logo=express&logoColor=f7df1e)&nbsp;
 ![NestJS](https://img.shields.io/badge/NestJS-171c28?logo=nestjs&logoColor=e0234e)&nbsp;
+![ExpressJS](https://img.shields.io/badge/ExpressJS-171c28?logo=express&logoColor=f7df1e)&nbsp;
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-171c28?logo=graphql&logoColor=e10098)&nbsp;
 ![Socket.io](https://img.shields.io/badge/Socket.io-171c28?logo=socket.io)&nbsp;
 ![Sequelize](https://img.shields.io/badge/Sequelize-171c28?logo=sequelize)&nbsp;
@@ -46,12 +47,13 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-171c28?logo=mongodb)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-171c28?logo=docker)
 
-#### Bundler, Compiler & Others tools
+#### Bundlers, Compilers & Other tools
 
 ![Webpack](https://img.shields.io/badge/Webpack-171c28?logo=webpack)&nbsp;
 ![Rollup](https://img.shields.io/badge/Rollup-171c28?logo=rollup.js)&nbsp;
 ![Vite](https://img.shields.io/badge/Vite-171c28?logo=vite)
 ![Nx](https://img.shields.io/badge/Nx_Monorepo-171c28?logo=nx)
+![Micro Frontend - Module Federation](https://img.shields.io/badge/Micro_Frontend_-_Module_Federation-171c28?logo=hackthebox)
 ![Bun](https://img.shields.io/badge/Bun-171c28?logo=bun)
 
 #### Things I use to get stuff done
@@ -59,7 +61,7 @@
 ![Fedora](https://img.shields.io/badge/Fedora-171c28?logo=fedora)&nbsp;
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-171c28?logo=archlinux)&nbsp;
 ![MacOS](https://img.shields.io/badge/MacOS-171c28?logo=apple)&nbsp;
-![VSCode](https://img.shields.io/badge/VSCode-171c28?logo=visualstudiocode&logoColor=007acc)&nbsp;
+![VSCode](https://img.shields.io/badge/VSCode-171c28?logo=htmx&logoColor=007acc)&nbsp;
 ![Vim](https://img.shields.io/badge/Vim_&_Neovim-171c28?logo=neovim)&nbsp;
 ![Zsh](https://img.shields.io/badge/Zsh-171c28?logo=zsh)&nbsp;
 ![Warp](https://img.shields.io/badge/Warp-171c28?logo=warp)&nbsp;
@@ -83,4 +85,4 @@
 
 ---
 
-Last edited: 18/10/2024
+Last edited: 07/04/2025
