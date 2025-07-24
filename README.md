@@ -4,11 +4,12 @@
 
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" />
 
-- 👨‍💻 I'm a Software Engineer. I’m currently working with JS, TS, React, React Native, Vue, NextJS, NestJS, Go, etc.
+- 👨‍💻 I'm a Software Engineer. I’m currently working with JS, TS, Go, React, React Native, Vue, NextJS, NestJS, etc.
 - 🥹 Fun fact: Open-minded and friendly, enjoys sharing knowledge with others. I love play guitar and coding.
 - ☕ I need more coffee.
 - 📚 I'm a lifelong learner.
 - 📫 Contact me: [tuannguyentn2504@gmail.com](mailto:tuannguyentn2504@gmail.com).
+- 🍀 My blog: [dynonguyen.com](https://dynonguyen.com)
 
 ## 🚀 Languages & Tools
 
@@ -21,7 +22,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-171c28?logo=typescript)&nbsp;
 ![Go](https://img.shields.io/badge/Go-171c28?logo=go)
 
-#### Front-end tools
+#### Front-end
 
 ![React](https://img.shields.io/badge/React-171c28?logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-171c28?logo=react)&nbsp;
@@ -35,17 +36,22 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-171c28?logo=tailwindcss)&nbsp;
 ![CSS-in-JS](https://img.shields.io/badge/CSS_In_JS-171c28?logo=styledcomponents)
 
-#### Back-end tools
+#### Back-end
 
 ![NodeJS](https://img.shields.io/badge/NodeJS-171c28?logo=node.js)&nbsp;
 ![NestJS](https://img.shields.io/badge/NestJS-171c28?logo=nestjs&logoColor=e0234e)&nbsp;
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-171c28?logo=express&logoColor=f7df1e)&nbsp;
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-171c28?logo=graphql&logoColor=e10098)&nbsp;
 ![Socket.io](https://img.shields.io/badge/Socket.io-171c28?logo=socket.io)&nbsp;
-![Sequelize](https://img.shields.io/badge/Sequelize-171c28?logo=sequelize)&nbsp;
 ![Echo](https://img.shields.io/badge/Go_Echo-171c28?logo=go&logoColor=f7df1e)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-171c28?logo=docker)&nbsp;
+![k8s](https://img.shields.io/badge/Kubernetes-171c28?logo=kubernetes)&nbsp;
+![gRPC](https://img.shields.io/badge/gRPC-171c28?logo=google&logoColor=61C6C5)&nbsp;
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-171c28?logo=cilium&logoColor=1793D1)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-171c28?logo=mongodb)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-171c28?logo=docker)
+![MySQL](https://img.shields.io/badge/MySQL-171c28?logo=mysql)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171c28?logo=postgresql)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-171c28?logo=redis&logoColor=FF4438)&nbsp;
 
 #### Bundlers, Compilers & Other tools
 
