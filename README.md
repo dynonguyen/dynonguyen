@@ -1,4 +1,4 @@
-# 👋 Hi there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 />, I'm [Dyno](https://github.com/dynognuyen)
+# 👋 Hi there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 />, I'm [Dyno](https://dynonguyen.com)
 
 ## 👨🏻‍💻 About me
 
@@ -79,14 +79,10 @@
 
 ![Dyno's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dynonguyen&custom_title=Dyno%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B9346D&line=B9346D&point=B9346D&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
 
-## 📈 Visitor Count
-
-<img src="https://profile-counter.glitch.me/dynonguyen/count.svg" alt="Visitor Count" />
-
 ## ☕ Buy me a coffee
 
 <a href="https://www.buymeacoffee.com/dynonguyen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ---
 
-Last edited: 24/05/2025
+Last edited: 24/07/2025
