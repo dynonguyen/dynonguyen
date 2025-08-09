@@ -1,17 +1,17 @@
 # 👋 Hi there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 />, I'm [Dyno](https://dynonguyen.com)
 
-## 👨🏻‍💻 About me
+## 🧑‍💻 About me
 
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" />
 
-- 👨‍💻 I'm a Software Engineer. I’m currently working with JS, TS, Go, React, React Native, Vue, NextJS, NestJS, etc.
-- 🥹 Fun fact: Open-minded and friendly, enjoys sharing knowledge with others. I love play guitar and coding.
-- ☕ I need more coffee.
+- 🧑‍💻 I'm a Software Engineer. I’m currently working with JS, TS, Go, React, React Native, Vue, NextJS, NestJS, etc.
+- 🎸 Fun fact: Open-minded and friendly, I enjoy sharing knowledge with others. I love playing guitar and coding.
 - 📚 I'm a lifelong learner.
-- 📫 Contact me: [tuannguyentn2504@gmail.com](mailto:tuannguyentn2504@gmail.com).
+- ☕ I need more coffee.
+- 📫 Contact me: [tuannguyentn2504@gmail.com](mailto:tuannguyentn2504@gmail.com)
 - 🍀 My blog: [dynonguyen.com](https://dynonguyen.com)
 
-## 🚀 Languages & Tools
+## 🛠️ Technologies & Tools
 
 <!-- https://shields.io/badges -->
 <!-- https://simpleicons.org/ -->
@@ -77,6 +77,24 @@
 ![Git](https://img.shields.io/badge/Git-171c28?logo=git)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-171c28?logo=notion)
 
+## 🚀 Things I've shipped
+
+<a href="https://ezbill.vercel.app/" target="_blank">
+  <img src="./img/ezbill.png" height="64">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://chromewebstore.google.com/detail/dyno-command-palette/pecgnckollojbdbpklfjiojddlpmdgim" target="_blank">
+  <img src="./img/dcp.svg" height="64">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://marketplace.visualstudio.com/items?itemName=dyno-nguyen.dyno-dark-mode" target="_blank">
+  <img src="./img/ddt.png" height="64">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://marketplace.visualstudio.com/items?itemName=dyno-nguyen.vscode-dynofileutils" target="_blank">
+  <img src="./img/dfu.png" height="64">
+</a>
+
 ## ✨ GitHub Stats
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=dynonguyen&theme=radical&include_all_commits=true&count_private=true&show_icons=true&bg_color=141321&hide_border=true&hide_title=true" />
@@ -91,4 +109,4 @@
 
 ---
 
-Last edited: 24/07/2025
+Last edited: 2025-08-09
