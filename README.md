@@ -9,7 +9,7 @@
 - 📚 I'm a lifelong learner.
 - ☕ I need more coffee.
 - 📫 Contact me: [tuannguyentn2504@gmail.com](mailto:tuannguyentn2504@gmail.com)
-- 🍀 My blog: [dynonguyen.com](https://dynonguyen.com)
+- 🍀 My website: [dynonguyen.com](https://dynonguyen.com)
 
 ## 🛠️ Technologies & Tools
 
@@ -39,15 +39,15 @@
 #### Back-end
 
 ![NodeJS](https://img.shields.io/badge/NodeJS-171c28?logo=node.js)&nbsp;
+![Go](https://img.shields.io/badge/Go-171c28?logo=go)&nbsp;
 ![NestJS](https://img.shields.io/badge/NestJS-171c28?logo=nestjs&logoColor=e0234e)&nbsp;
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-171c28?logo=cilium&logoColor=1793D1)&nbsp;
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-171c28?logo=express&logoColor=f7df1e)&nbsp;
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-171c28?logo=graphql&logoColor=e10098)&nbsp;
 ![Socket.io](https://img.shields.io/badge/Socket.io-171c28?logo=socket.io)&nbsp;
-![Echo](https://img.shields.io/badge/Go_Echo-171c28?logo=go&logoColor=f7df1e)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-171c28?logo=docker)&nbsp;
 ![k8s](https://img.shields.io/badge/Kubernetes-171c28?logo=kubernetes)&nbsp;
 ![gRPC](https://img.shields.io/badge/gRPC-171c28?logo=google&logoColor=61C6C5)&nbsp;
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-171c28?logo=cilium&logoColor=1793D1)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-171c28?logo=mongodb)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-171c28?logo=mysql)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171c28?logo=postgresql)&nbsp;
@@ -79,6 +79,8 @@
 
 ## 🚀 Things I've shipped
 
+### Web Apps
+
 <a href="https://ezbill.vercel.app/" target="_blank">
   <img src="./img/ezbill.png" height="64">
 </a>
@@ -86,21 +88,17 @@
 <a href="https://thisworld.vercel.app/" target="_blank">
   <img src="./img/thisworld.png" height="64">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 
-<br/>
-<br/>
+### VSCode Extensions
 
-<a href="https://chromewebstore.google.com/detail/dyno-command-palette/pecgnckollojbdbpklfjiojddlpmdgim" target="_blank">
+<a href="https://marketplace.visualstudio.com/items?itemName=dynonguyen.dyno-aio" target="_blank" alt="Dyno AIO">
+  <img src="./img/dyno-aio.png" height="64">
+</a>
+
+### Chrome Extensions
+
+<a href="https://chromewebstore.google.com/detail/dyno-command-palette/pecgnckollojbdbpklfjiojddlpmdgim" target="_blank" alt="Dyno Command Palette" >
   <img src="./img/dcp.svg" height="64">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://marketplace.visualstudio.com/items?itemName=dyno-nguyen.dyno-dark-mode" target="_blank">
-  <img src="./img/ddt.png" height="64">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://marketplace.visualstudio.com/items?itemName=dyno-nguyen.vscode-dynofileutils" target="_blank">
-  <img src="./img/dfu.png" height="64">
 </a>
 
 ## ✨ GitHub Stats
