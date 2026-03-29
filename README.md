@@ -91,7 +91,7 @@
 
 ### VSCode Extensions
 
-<a href="https://marketplace.visualstudio.com/items?itemName=dynonguyen.dyno-aio" target="_blank" alt="Dyno AIO">
+<a href="https://open-vsx.org/extension/dynonguyen/dyno-aio" target="_blank" alt="Dyno AIO">
   <img src="./img/dyno-aio.png" height="64">
 </a>
 
