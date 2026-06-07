@@ -81,15 +81,19 @@
 
 ### Web Apps
 
-<a href="https://ezbill.vercel.app/" target="_blank">
+<a href="https://ezbiu.com/" target="_blank">
   <img src="./img/ezbill.png" height="64">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://thisworld.vercel.app/" target="_blank">
   <img src="./img/thisworld.png" height="64">
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://dynonguyen.com/dyano" target="_blank">
+  <img src="./img/dyano.png" height="64">
+</a>
 
-### VSCode Extensions
+### VSCode/Cursor Extensions
 
 <a href="https://open-vsx.org/extension/dynonguyen/dyno-aio" target="_blank" alt="Dyno AIO">
   <img src="./img/dyno-aio.png" height="64">
@@ -110,7 +114,6 @@
 <!-- <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynonguyen&theme=radical&include_all_commits=true&count_private=true&show_icons=true&bg_color=141321&hide_border=true&layout=compact&langs_count=4&hide=css,html,tsql,php,sql,pug,c%2B%2B,c,vue,c%23,scss,sass,java,hack,plpgsql" /> -->
 
 ![Dyno's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dynonguyen&custom_title=Dyno%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B9346D&line=B9346D&point=B9346D&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
-
 
 ## ☕ Buy me a coffee
 
